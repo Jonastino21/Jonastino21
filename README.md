@@ -88,12 +88,12 @@
           <a href="https://github.com/Jonastino21/EducUma" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
-          <a href="https://project1demo.com" target="_blank">
+<!--           <a href="https://project1demo.com" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel"/>
-          </a>
+          </a> -->
         </span>
         <p align="center">
-          Brief description of your project
+          EducUma is a digital solution enhancing academic management and student-teacher communication. Winner of the Digital Transformation Hackathon, it simplifies courses, schedules, assignments, and university events while fostering interactive learning.
         </p>
       </p>
     </td>
@@ -101,18 +101,18 @@
       <h3 align="center">Kiraroshop</h3>
       <p align="center">
         <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="400" alt="Project 2"/>
+          <img src="/img/kiraroshop.png" width="400" alt="Project 2"/>
         </a>
         <span> 
           <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
-          <a href="https://project2demo.com" target="_blank">
+          <a href="https://jonastino21.github.io/kiraroshop-front/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel"/>
           </a>
         </span>
         <p align="center">
-          Brief description of your project
+          Kiraroshop is an online store specializing in shoes. The site emphasizes the combination of comfort and style, suggesting that it offers shoes suitable for various occasions. 
         </p>
       </p>
     </td>
