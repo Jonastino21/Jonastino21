@@ -82,7 +82,7 @@
       <h3 align="center">EducUma</h3>
       <p align="center">
         <a href="https://github.com/Jonastino21/EducUma" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="400" alt="Project 1"/>
+          <img src="/img/educuma.png" width="400" alt="Project 1"/>
         </a>
         <span> 
           <a href="https://github.com/Jonastino21/EducUma" target="_blank">
