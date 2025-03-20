@@ -1,30 +1,153 @@
-<h1 align="center">Hi 👋, I'm Jonastino HERINIANTSONIAVO</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jonastino HERINIANTSONIAVO - Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <div class="container mx-auto px-4 py-8 max-w-4xl">
+        <!-- Header Section -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl font-bold mb-2">Hi 👋, I'm Jonastino HERINIANTSONIAVO</h1>
+            <h3 class="text-xl font-semibold text-blue-600 mb-4">Web & Mobile Developer</h3>
+            <div class="flex justify-center mb-4">
+                <img src="https://komarev.com/ghpvc/?username=jonastino21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" class="h-6" />
+            </div>
+            <div class="flex justify-center">
+                <img src="https://github-profile-trophy.vercel.app/?username=jonastino21" alt="GitHub trophies" class="w-full max-w-2xl" />
+            </div>
+        </header>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonastino21&label=Profile%20views&color=0e75b6&style=flat" alt="jonastino21" /> </p>
+        <!-- About Section -->
+        <section class="mb-10 bg-white p-6 rounded-lg shadow-md">
+            <ul class="space-y-3">
+                <li class="flex items-start">
+                    <span class="text-green-500 mr-2">🌱</span> 
+                    <span>I'm currently learning <span class="font-medium">Project management & Cybersecurity</span></span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-blue-500 mr-2">👨‍💻</span> 
+                    <span>All of my projects are available at <a href="https://jonastino.netlify.app" class="text-blue-600 hover:underline" target="_blank">jonastino.netlify.app</a></span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-red-500 mr-2">📫</span> 
+                    <span>How to reach me <a href="mailto:heryniantso@gmail.com" class="text-blue-600 hover:underline">heryniantso@gmail.com</a></span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-purple-500 mr-2">📄</span> 
+                    <span>Know about my experiences <a href="https://jonastino.netlify.app/#about" class="text-blue-600 hover:underline" target="_blank">jonastino.netlify.app/#about</a></span>
+                </li>
+            </ul>
+        </section>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonastino21" alt="jonastino21" /></a> </p>
+        <!-- Connect Section -->
+        <section class="mb-10 bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold mb-4 pb-2 border-b border-gray-200">Connect with me:</h3>
+            <div class="flex space-x-4">
+                <a href="https://linkedin.com/in/jonastino-heriniantsoniavo" target="_blank" class="hover:opacity-80">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" class="h-8 w-8" />
+                </a>
+                <a href="https://fb.com/jonastino.heriniantsoniavo" target="_blank" class="hover:opacity-80">
+                    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" class="h-8 w-8" />
+                </a>
+            </div>
+        </section>
 
-- 🌱 I’m currently learning **Project management & Cybersecurity**
+        <!-- Skills Section -->
+        <section class="mb-10 bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold mb-4 pb-2 border-b border-gray-200">Languages and Tools:</h3>
+            <div class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 gap-4">
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" class="w-10 h-10" />
+                </div>
+                <div class="flex justify-center items-center hover:scale-110 transition-transform">
+                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" class="w-10 h-10" />
+                </div>
+            </div>
+        </section>
 
-- 👨‍💻 All of my projects are available at [https://jonastino.netlify.app](https://jonastino.netlify.app)
-
-- 📫 How to reach me **heryniantso@gmail.com**
-
-- 📄 Know about my experiences [https://jonastino.netlify.app/#about](https://jonastino.netlify.app/#about)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonastino heriniantsoniavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonastino heriniantsoniavo" height="30" width="40" /></a>
-<a href="https://fb.com/jonastino heriniantsoniavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonastino heriniantsoniavo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonastino21&show_icons=true&locale=en&layout=compact" alt="jonastino21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonastino21&show_icons=true&locale=en" alt="jonastino21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonastino21&" alt="jonastino21" /></p>
-
+        <!-- Stats Section -->
+        <section class="space-y-6">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <img class="w-full" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonastino21&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+            </div>
+            
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <img class="w-full" src="https://github-readme-stats.vercel.app/api?username=jonastino21&show_icons=true&locale=en" alt="GitHub stats" />
+            </div>
+            
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <img class="w-full" src="https://github-readme-streak-stats.herokuapp.com/?user=jonastino21&" alt="GitHub streak stats" />
+            </div>
+        </section>
+    </div>
+</body>
+</html>
