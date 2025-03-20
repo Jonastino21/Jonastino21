@@ -60,8 +60,6 @@
 
 ### 📈 GitHub Activity Graph
 
-[![Jonas' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jonastino21&theme=tokyo-night)](https://github.com/Jonastino21)
-
 ---
 
 <div align="center">
