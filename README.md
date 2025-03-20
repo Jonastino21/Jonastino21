@@ -45,9 +45,9 @@
 
 ### 🔝 Top Repositories
 
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=kiraroshop&theme=tokyonight)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=kiraroshop-front&theme=tokyonight)
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=repo-name&theme=tokyonight)](https://github.com/Jonastino21/EducUma)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=EducUma&theme=tokyonight)
 
 ---
 
