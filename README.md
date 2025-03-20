@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Jonastino Heriniantsoniavo
+# 👋 Hola, I'm Jonastino Heriniantsoniavo
 
-## 💻 Software engineer | 🌐 Web & Mobile applicatioins | 🚀 Agile & Cybersecurity learner
+## 💻 Software engineer | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jonastino21&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/Jonastino21?label=Follow&style=social)](https://github.com/Jonastino21)
@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on an **Application designed to automate the management and creation of Dolibarr instances**
 - 🌱 I'm currently learning on **Cybersecurity and Projects managements**
 - 📫 You can reach me on mail: **heryniantso@gmail.com**
-- ⚡ Fun fact: **My mission? Tease my friends until they strike back…😄 but always in a fun and friendly way!**
+- ⚡ Fun fact: **Tease my friends until they strike back…😄 but always in a fun and friendly way!**
 
 ---
 
@@ -45,7 +45,8 @@
 
 ### 🔝 Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=repo-name&theme=tokyonight)](https://github.com/Jonastino21/kiraroshop-front)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=kiraroshop&theme=tokyonight)
+
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=repo-name&theme=tokyonight)](https://github.com/Jonastino21/EducUma)
 
 ---
