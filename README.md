@@ -84,14 +84,14 @@
         <a href="https://github.com/Jonastino21/EducUma" target="_blank">
           <img src="/img/educuma.png" width="400" alt="Project 1"/>
         </a>
-        <span> 
-          <a href="https://github.com/Jonastino21/EducUma" target="_blank">
+<!--         <span>  -->
+<!--           <a href="https://github.com/Jonastino21/EducUma" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>  
+          </a>   -->
 <!--           <a href="https://project1demo.com" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel"/>
           </a> -->
-        </span>
+<!--         </span> -->
         <p align="center">
           EducUma is a digital solution enhancing academic management and student-teacher communication. Winner of the Digital Transformation Hackathon, it simplifies courses, schedules, assignments, and university events while fostering interactive learning.
         </p>
@@ -104,9 +104,9 @@
           <img src="/img/kiraroshop.png" width="400" alt="Project 2"/>
         </a>
         <span> 
-          <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
+<!--           <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>  
+          </a>   -->
           <a href="https://jonastino21.github.io/kiraroshop-front/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel"/>
           </a>
