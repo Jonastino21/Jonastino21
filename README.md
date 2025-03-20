@@ -101,7 +101,7 @@
       <h3 align="center">Kiraroshop</h3>
       <p align="center">
         <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
-          <img src="/img/kiraroshop.png" width="400" height="50" alt="Project 2"/>
+          <img src="/img/kiraroshop.png" width="400" height="500" alt="Project 2"/>
         </a>
         <span> 
 <!--           <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
