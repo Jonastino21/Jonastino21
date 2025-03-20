@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=2&column=4" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=1&column=4" alt="trophy">
 </div>
 
 ---
@@ -73,19 +73,19 @@
 </div>
 
 <!-- Optional section: Featured projects with screenshots -->
-<!--
+
 ## 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">EducUma</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
+        <a href="https://github.com/Jonastino21/EducUma" target="_blank">
           <img src="https://via.placeholder.com/500x300" width="400" alt="Project 1"/>
         </a>
         <span> 
-          <a href="https://github.com/yourusername/project1" target="_blank">
+          <a href="https://github.com/Jonastino21/EducUma" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
           <a href="https://project1demo.com" target="_blank">
@@ -98,13 +98,13 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Kiraroshop</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
+        <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
           <img src="https://via.placeholder.com/500x300" width="400" alt="Project 2"/>
         </a>
         <span> 
-          <a href="https://github.com/yourusername/project2" target="_blank">
+          <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
           <a href="https://project2demo.com" target="_blank">
@@ -118,4 +118,4 @@
     </td>
   </tr>
 </table>
--->
+
