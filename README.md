@@ -93,7 +93,7 @@
           </a> -->
 <!--         </span> -->
         <p align="center">
-          EducUma is a digital solution enhancing academic management and student-teacher communication. Winner of the Digital Transformation Hackathon, it simplifies courses, schedules, assignments, and university events while fostering interactive learning.
+          EducUma is a digital solution enhancing academic management and student-teacher communication. It simplifies courses, schedules, assignments, and university events.
         </p>
       </p>
     </td>
@@ -101,7 +101,7 @@
       <h3 align="center">Kiraroshop</h3>
       <p align="center">
         <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
-          <img src="/img/kiraroshop.png" width="450" height="400" alt="Project 2"/>
+          <img src="/img/kiraroshop.png" width="450" height="330" alt="Project 2"/>
         </a>
         <span> 
 <!--           <a href="https://github.com/Jonastino21/kiraroshop-front" target="_blank">
