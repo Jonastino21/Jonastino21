@@ -1,76 +1,76 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Jonastino Heriniantsoniavo
 
-## 💻 Full Stack Developer | 🌐 Web Enthusiast | 📱 Mobile App Creator
+## 💻 Software engineer | 🌐 Web & Mobile applicatioins | 🚀 Agile & Cybersecurity learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=Jonastino21&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/Jonastino21?label=Follow&style=social)](https://github.com/Jonastino21)
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies You're Learning]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, mobile apps, and cloud solutions**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🔭 I'm currently working on an **Application designed to automate the management and creation of Dolibarr instances**
+- 🌱 I'm currently learning on **Cybersecurity and Projects managements**
+- 📫 You can reach me on mail: **heryniantso@gmail.com**
+- ⚡ Fun fact: **My mission? Tease my friends until they strike back…😄 but always in a fun and friendly way!**
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonastino21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
 ### 🔝 Top Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=tokyonight)](https://github.com/yourusername/repo-name)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=tokyonight)](https://github.com/yourusername/repo-name)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=repo-name&theme=tokyonight)](https://github.com/Jonastino21/kiraroshop-front)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=repo-name&theme=tokyonight)](https://github.com/Jonastino21/EducUma)
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jonastino-heriniantsoniavo-531945213) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://jonastino.netlify.app)
 
 ---
 
 ### 📈 GitHub Activity Graph
 
-[![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+[![Jonas' GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jonastino21&theme=tokyo-night)](https://github.com/Jonastino21)
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=1&column=6" alt="trophy">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 <!-- Optional section: Featured projects with screenshots -->
