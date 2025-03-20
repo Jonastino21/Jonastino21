@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=1&column=6" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=2&column=2" alt="trophy">
 </div>
 
 ---
