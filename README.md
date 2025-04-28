@@ -21,10 +21,8 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
 ## 💻 Software engineer | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
----
 
 ### 🚀 About Me
 
