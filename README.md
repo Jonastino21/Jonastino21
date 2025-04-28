@@ -14,6 +14,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jonastino21&color=brightgreen"  />
+  <img src="https://img.shields.io/github/followers/Jonastino21?label=Follow&style=social"  />
 </div>
 
 ###
