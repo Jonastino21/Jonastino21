@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+![Profile Views](https://komarev.com/ghpvc/?username=Jonastino21&color=brightgreen)
 </div>
 
 ###
