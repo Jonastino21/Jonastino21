@@ -24,9 +24,6 @@
 ###
 ## 💻 Software engineer | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jonastino21&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/Jonastino21?label=Follow&style=social)](https://github.com/Jonastino21)
-
 ---
 
 ### 🚀 About Me
