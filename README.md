@@ -42,9 +42,9 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ---
 
-### 🛠️ Technologies & Tools
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
-#### Frontend
+<h4 align="center">Frontend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -54,7 +54,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 </div>
 
-#### Backend
+<h4 align="center">Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -62,16 +62,17 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </div>
 
-#### Database
+<h4 align="center">Database</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
 
-#### APIs
+<h4 align="center">APIs</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </div>
+
 
 
 ### 📊 GitHub Stats
