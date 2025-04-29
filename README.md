@@ -80,12 +80,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 ### Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20my%20Profile-%23FF6347?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
