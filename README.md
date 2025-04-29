@@ -27,9 +27,9 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Jonastino Heriniantsoniavo</h1>
 
-## 💻 Software engineer | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
+## 💻 Software engineering student | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
 
 ### 🚀 About Me
