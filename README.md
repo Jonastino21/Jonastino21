@@ -79,21 +79,12 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ### Stats
 
-<p align="center">
-  <img height="180em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ---
-
-### 🔝 Top Repositories
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=kiraroshop-front&theme=tokyonight)
-
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Jonastino21&repo=EducUma&theme=tokyonight)
-
----
-
 
 ### 📈 GitHub Activity Graph
 
