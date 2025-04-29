@@ -94,12 +94,6 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ---
 
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jonastino-heriniantsoniavo-531945213) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://jonastino.netlify.app)
-
----
 
 ### 📈 GitHub Activity Graph
 
