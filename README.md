@@ -60,6 +60,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Odoo-8C4E2F?style=flat-square&logo=odoo&logoColor=white" />
 </div>
 
 <h4 align="center">Database</h4>
@@ -72,6 +73,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 <div align="center">
   <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </div>
+
 
 
 
