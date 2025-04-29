@@ -91,7 +91,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ---
 
-<h4 align="center">📈Graph</h4>
+<h4 align="center">🏆Trophy</h4>
 
 
 <div align="center">
