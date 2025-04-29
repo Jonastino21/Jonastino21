@@ -32,8 +32,9 @@
 ## 💻 Software engineering student | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
 </div>
+
 ###
-I'm currently working on an **Application designed to automate the management and creation of Dolibarr instances** and learning on **Cybersecurity and Projects managements**
+📫 I'm currently working on an **Application designed to automate the management and creation of Dolibarr instances** and learning on **Cybersecurity and Projects managements**
 📫 You can reach me on **heryniantso@gmail.com**
 ⚡ Fun fact: **Tease my friends until they strike back…😄 but always in a fun and friendly way!**
 
