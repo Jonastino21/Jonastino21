@@ -90,7 +90,6 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 <h4 align="center">📈Graph</h4>
 
----
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jonastino21&theme=tokyonight&row=1&column=4" alt="trophy">
