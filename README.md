@@ -78,7 +78,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 
 
-### Stats
+<h4 align="center">Stats</h4>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -88,7 +88,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ---
 
-### 📈Graph
+<h4 align="center">📈Graph</h4>
 
 ---
 
@@ -101,7 +101,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 <!-- Optional section: Featured projects with screenshots -->
 
-## 📌 Featured Projects
+ <h4 align="center">📌 Featured Projects</h4>
 
 <table>
   <tr>
