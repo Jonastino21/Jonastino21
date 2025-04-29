@@ -81,12 +81,13 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈Graph
 
 ---
 
@@ -96,9 +97,6 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight" alt="GitHub Streak">
-</div>
 
 <!-- Optional section: Featured projects with screenshots -->
 
