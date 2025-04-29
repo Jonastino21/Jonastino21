@@ -37,7 +37,7 @@
 
 I'm currently working on **SaaS and CMS projects**, while also learning about **Cybersecurity and Projects managements**  
 <p align="center">
-  You can reach me on <strong>heryniantso@gmail.com</strong>
+  You can reach me on <a href="mailto:heryniantso@gmail.com"><strong>heryniantso@gmail.com</strong></a>
 </p>
 
 ---
