@@ -37,7 +37,6 @@
 
 💼 I'm currently working on **SaaS and CMS projects**, while also learning about **Cybersecurity and Projects managements**  
 📫 You can reach me on **heryniantso@gmail.com**  
-⚡ Fun fact: **Tease my friends until they strike back…😄 but always in a fun and friendly way!**
 
 ---
 
