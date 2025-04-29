@@ -83,8 +83,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 <div align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight&hide_border=true&cache_bust=1"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight&hide_border=true&cache_bust=1"/>
 </p>
 
 </div>
@@ -102,7 +101,7 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 ---
 
 
-<!-- Optional section: Featured projects with screenshots -->
+<!-- Optional section: Featured project with screenshots -->
 
  <h4 align="center">📌 Featured Projects</h4>
 
