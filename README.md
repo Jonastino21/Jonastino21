@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/profile.php?id=100088673478688" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-</div>
+
 
 
 
@@ -31,7 +31,7 @@
 
 ## 💻 Software engineering student | 🌐 Web & Mobile applications | 🛡️ Cybersecurity learner
 
-
+</div>
 ### 🚀 About Me
 
 - 🔭 I'm currently working on an **Application designed to automate the management and creation of Dolibarr instances**
