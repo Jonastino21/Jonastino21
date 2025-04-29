@@ -57,6 +57,8 @@ I'm currently working on **SaaS and CMS projects**, while also learning about **
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-61DAFB?style=flat-square&logo=odoo&logoColor=black)
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
